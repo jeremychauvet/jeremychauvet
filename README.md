@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there :metal:
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my OSS projects, called "showroom". Discover it :point_down: :metal:
+I’m currently working on my OSS projects, called "showroom". Discover it :point_down: 
