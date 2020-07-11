@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on my OSS projects, called "showroom". Discover it :point_down: 
+I’m currently working on my OSS projects, called "showroom". Feel free to check-it out :point_down: 
